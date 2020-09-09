@@ -109,6 +109,8 @@
 	.page.predictive .content.c5.contact .boxs{max-width:100%}
 	.page.predictive .IntroBg h3{margin:0 0 1% 2%}
 	.page.predictive .IntroBg .IntroWording p{margin:0 0% 2% 2%;}
+	.page.predictive .menuFrame ul li a{font-size: 15px;padding: 0px 16px;}
+
 }
 
 @media screen and (max-width: 991px) {
